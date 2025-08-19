@@ -1,7 +1,9 @@
 # About Me
 ## Education
 Studied in scientific French high school and graduated with outstanding grades.
+
 Began studies in the intense CPGE schools where I learned about Abstract Mathematics, Physics and Computer Science.
+
 Entered the French National School of Computer Science and Applied Mathematics ([ENSIMAG](https://en.wikipedia.org/wiki/%C3%89cole_nationale_sup%C3%A9rieure_d%27informatique_et_de_math%C3%A9matiques_appliqu%C3%A9es_de_Grenoble)) through a highly selective and competitive nation-wide entrance exams. I had the chance to study, among other subjects, Information Theory, Network Engineering, Hardware architecture, Systems Programming and Algorithms and Language Processing.
 
 ## Computer Science Interests
