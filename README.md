@@ -8,11 +8,25 @@ Entered the French National School of Computer Science and Applied Mathematics (
 
 ## Computer Science Interests
 
+I'm passionnate about basically anything related to low level programming. 
+
+That invovles:
+- **Computer Architecture**
+- **Computer Networking**
+- **low level memory optimizations**: cache/SRAM/DRAM optimmizations.
+- **Operating Systems and kernels**
+- **Compiler Design**: Added features to the GCC implementation of a company I worked with.
+- **Embedded Systems**
+- **Parallel Programmming**: multi-threaded programming is really fun
+- **Hardware Design** is interesting as well but not my biggest interest compared to the rest.
+
+On a side note I do like **computer vision** as well.
+
 ## Programming languages
 
 - **C(++)**: highly proficient, experience writing OS kernel including bitwise manipulations on RISCV CSRs, writing multi-threaded applications and various memory optimisations. As a simple example checkout this [computer vision](https://github.com/origaniels/pgm_image_processing) project I wrote
 - **Python**: highly proficient, used mainly to write scripts to help debugging or performance monitoring, and not as full-fledged applications. I do own and maintain an old [discord music bot](https://github.com/origaniels/rem)
-- **Rust**: beginner to intermediate. Attempted training an AI to play a minimal flappy bird clone written in it from scratch (wrote the game and the neural network library)
+- **Rust**: beginner to intermediate. Attempted training an AI to play a minimal flappy bird clone written in it from scratch (wrote the game and the neural network library). Though currently the project is on hold.
 - **Java**: Proficient, wrote a compiler for a minimal object oriented toy language as a school project, featuring LLVM IR code generation.
 - **Build Systems**: Significant experience with **Make**, **CMake**, **Meson**.
 - **Scripting**: **Bash/Zsh** and other shells.
