@@ -13,7 +13,7 @@ I'm passionnate about basically anything related to low level programming.
 That invovles:
 - **Computer Architecture**
 - **Computer Networking**
-- **low level memory optimizations**: cache/SRAM/DRAM optimmizations.
+- **low level memory optimizations**: cache/SMEM/DRAM optimmizations.
 - **Operating Systems and kernels**
 - **Compiler Design**: Added features to the GCC implementation of a company I worked with.
 - **Embedded Systems**
