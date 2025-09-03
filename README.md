@@ -15,7 +15,7 @@ That invovles:
 - **low level memory optimizations**: cache/SMEM/DRAM optimmizations.
 - **Operating Systems and kernels**: Process scheduling, memory virtualization 
 - **Compiler Design**: Added features to the GCC implementation for a hardware accelerator of a company I worked with.
-- **Embedded Systems**: bootloaders, UART & SPI, firmware.
+- **Embedded Systems**: bootloaders, UART & SPI, firmware. [Currently exploring](https://github.com/origaniels/baremetal_stm32) bare-metal programming on the Nucleo C031C6 STM32 board.
 - **Parallel Programmming**: multi-threaded programming is really fun.
 - **Computer Architecture**: CPU design, pipelining, instruction parallelism (VLIW/SuperScalar)
 
